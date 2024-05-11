@@ -1,0 +1,46 @@
+* {
+    color: #fbffe6;
+}
+
+.startPage {
+    text-align: center;
+    width: 80%;
+    margin: auto;
+    padding: 20px;
+}
+
+.startPage h1, .startPage h2 {
+    color: #fbffe6; 
+}
+
+.startPage form {
+    margin: 20px auto;
+    padding: 10px;
+    border: 1px solid rgb(0, 0, 0); 
+    display: inline-block;
+    width: 300px;
+    color: #fbffe6;
+}
+
+.startPage input {
+    display: block;
+    width: 100%;
+    margin: 10px 0;
+    padding: 8px;
+    box-sizing: border-box; 
+    color: #fbffe6;
+}
+
+.startPage button {
+    width: 100%;
+    padding: 10px;
+    background-color: #5c67f2; 
+    color: #fbffe6;
+    border: none;
+    cursor: pointer;
+    border-radius: 5px;
+}
+
+.startPage button:hover {
+    background-color: #4a54e1;
+}
